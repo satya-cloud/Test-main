@@ -1,0 +1,5 @@
+1. Write comments for all complex calculations, see if you can replace it with extension methods
+2. Move the similar functionality code files into folders E.g: RollForward files to a new folder name it as RollForward, calculation
+3. Move all properties into appropriate business entities/models
+4. Replace normal arrays with list
+5. Modify the adding elements to array according to list after changing all arrays into list
